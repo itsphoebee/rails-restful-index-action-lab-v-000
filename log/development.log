@@ -236,3 +236,4 @@ Started GET "/students" for 24.188.57.81 at 2018-01-24 20:00:20 +0000
 Processing by StudentsController#index as HTML
   [1m[36mStudent Load (0.8ms)[0m  [1mSELECT "students".* FROM "students"[0m
   Rendered students/index.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 80ms (Views: 71.0ms | ActiveRecord: 1.3ms)
